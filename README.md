@@ -100,6 +100,15 @@ Download [`dashboard/port-authority-demand-dashboard.pbix`](dashboard/port-autho
 | [`docs/project-presentation.pptx`](docs/project-presentation.pptx) | Final team presentation |
 | [`docs/eda-appendix.pdf`](docs/eda-appendix.pdf) | Carrier-level exploratory analysis and decomposition charts |
 
+## Earlier forecasting prototype
+
+An earlier phase of the project explored ARIMA and Exponential Smoothing approaches in Python. These artifacts are preserved to show the progression from initial forecasting experiments to the final analytics deliverables:
+
+* [Python forecasting script](forecast.py)
+* [ARIMA forecast output](arima_forecast.png)
+* [Exponential Smoothing forecast output](exp_forecast.png)
+* [Earlier forecasting report](passenger_forecasting_report.pdf)
+
 ## Scope of my contribution
 
 My contribution focused on forecasting analysis, operational analysis, and strategic recommendations. This included interpreting demand growth and peak-capacity implications, translating analytical results into operational insights, and developing recommendations for staging capacity, scheduling, staffing, continuous forecast monitoring, and business-intelligence adoption.
