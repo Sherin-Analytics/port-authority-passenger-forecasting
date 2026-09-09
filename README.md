@@ -71,6 +71,25 @@ The dashboard contains four pages:
 
 Download [`dashboard/port-authority-demand-dashboard.pbix`](dashboard/port-authority-demand-dashboard.pbix) and open it with Power BI Desktop to explore the report.
 
+## Dashboard preview
+
+### Home page
+
+![Power BI dashboard home page](images/dashboard_home.png)
+
+### Busiest times
+
+![Busiest-times forecast dashboard](images/dashboard_busiest_times.png)
+
+### Carrier forecast and recovery
+
+![Carrier forecast and recovery dashboard](images/dashboard_carrier_forecast_recovery.png)
+
+### Demand-factor analysis
+
+![Power BI factor analysis](images/dashboard_factor_analysis.png)
+
+
 ## Repository contents
 
 | Path | Description |
