@@ -75,7 +75,7 @@ Download [`dashboard/port-authority-demand-dashboard.pbix`](dashboard/port-autho
 
 ### Home page
 
-![Power BI dashboard home page](images/dashboard_home.png)
+![Power BI dashboard home page](images/dasboard_home.png)
 
 ### Busiest times
 
