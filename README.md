@@ -83,7 +83,7 @@ Download [`dashboard/port-authority-demand-dashboard.pbix`](dashboard/port-autho
 
 ### Carrier forecast and recovery
 
-![Carrier forecast and recovery dashboard](images/dashboard_carrier_forecast_recovery.png)
+![Carrier forecast and recovery dashboard](images/dashboard_carrier.png)
 
 ### Demand-factor analysis
 
